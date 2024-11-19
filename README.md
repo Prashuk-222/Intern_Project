@@ -29,8 +29,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/react-firebase-app.git
-   cd react-firebase-app
+   git clone https://github.com/Prashuk-222/Intern_Project.git
+   cd Intern_Project
    ```
 2. Install the necessary dependencies:
    ```bash
